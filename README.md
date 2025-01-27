@@ -78,5 +78,9 @@ The image shows time taken by each CPU to scrape and parse over 65,618 Wikipedia
 
 ![image](https://github.com/NeuralFlux/foodvisor-llm/assets/116789851/378cb761-62c3-4d69-965a-7667ae6deff2)
 
+# Contributors
+- Anudeep Tubati
+- Preetham Prakash
+- Yugesh Panta
 
 
